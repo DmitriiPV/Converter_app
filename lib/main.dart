@@ -750,7 +750,7 @@ class _PressureRoute extends State<PressureRoute> {
                 minWidth: double.infinity,
                 onPressed: _convert,
                 child: Text(
-                  'Convert',
+                  'Конвентировать',
                   style: TextStyle(color: Colors.white),
                 ),
                 color: Theme.of(context).primaryColor,
